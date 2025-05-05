@@ -13,11 +13,6 @@ Tujuan dari proyek ini adalah untuk:
 ## Isi Repositori
 
 - `index.html` — Berisi contoh penggunaan berbagai tag HTML.
-- `style.css` *(jika ada)* — Digunakan untuk mempercantik tampilan dengan CSS.
+- `style.css` (In line) — Digunakan untuk mempercantik tampilan dengan CSS.
 - `README.md` — Berisi informasi singkat mengenai proyek ini.
 
-## Cara Menjalankan
-
-1. Clone atau unduh repositori ini:
-   ```bash
-   git clone https://github.com/hyoovolt/100-tag-UI-UX.git
